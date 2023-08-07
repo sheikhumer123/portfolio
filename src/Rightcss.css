@@ -1,0 +1,101 @@
+.rightComp {
+  height: 95vh;
+  width: 100px;
+  background-color: #282a36;
+  position: fixed;
+  right: 270px;
+}
+.rightbtn {
+  font-size: 25px;
+  color: #a5a6a7;
+  margin: 14px;
+  padding: 14px;
+  border-radius: 10px;
+  transition: all 0.2s ease-in-out;
+}
+.rightbtn:hover {
+  background-color: #ff73c3;
+  color: black;
+}
+.homebtn {
+  position: relative;
+}
+.homeLabel {
+  position: absolute;
+  top: -25px;
+  left: 20px;
+  display: none;
+  background-color: #666769;
+  color: #b9b2f8;
+  padding: 3px 5px;
+  font-size: 13px;
+}
+.homebtn:hover .homeLabel {
+  display: block;
+}
+.abot {
+  position: relative;
+}
+.abotlabel {
+  position: absolute;
+  top: -25px;
+  left: 20px;
+  display: none;
+  background-color: #666769;
+  color: #b9b2f8;
+  padding: 3px 5px;
+  font-size: 13px;
+}
+.abot:hover .abotlabel {
+  display: block;
+}
+
+.projects {
+  position: relative;
+}
+.projectslabel {
+  position: absolute;
+  top: -25px;
+  left: 14px;
+  display: none;
+  background-color: #666769;
+  color: #b9b2f8;
+  padding: 3px 5px;
+  font-size: 13px;
+}
+.projects:hover .projectslabel {
+  display: block;
+}
+.services {
+  position: relative;
+}
+.serviceslabel {
+  position: absolute;
+  top: -25px;
+  left: 20px;
+  display: none;
+  background-color: #666769;
+  color: #b9b2f8;
+  padding: 3px 5px;
+  font-size: 13px;
+}
+.services:hover .serviceslabel {
+  display: block;
+}
+
+.contact {
+  position: relative;
+}
+.contactlabel {
+  position: absolute;
+  top: -25px;
+  left: 14px;
+  display: none;
+  background-color: #666769;
+  color: #b9b2f8;
+  padding: 3px 5px;
+  font-size: 13px;
+}
+.contact:hover .contactlabel {
+  display: block;
+}

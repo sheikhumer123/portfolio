@@ -1,0 +1,16 @@
+.lNtag {
+  background-color: rgb(62, 50, 68);
+  padding: 2px 10px;
+  margin-left: 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  color: #f379c6;
+  margin-top: -5px;
+}
+.social {
+  color: rgb(144, 145, 148);
+  margin: 5px 10px;
+}
+.social:hover {
+  color: #f379c6;
+}
